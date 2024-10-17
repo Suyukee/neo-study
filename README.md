@@ -7,6 +7,6 @@
 
 Приложение создано с использованием React, Typescript, MUI.
 
-###Примеры
+## Примеры
 ![изображение](https://github.com/user-attachments/assets/dcaf7dd9-8771-41c1-8f76-43e10dafcef3)
 ![изображение](https://github.com/user-attachments/assets/f9fe95ae-fcae-40ec-b5ac-2986606b3970)
